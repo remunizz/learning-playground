@@ -3,7 +3,7 @@
 [bytewiser](https://github.com/maxogden/bytewiser) exercises.
 
 #### Goals
-- [ ] Buffer From String  
+- [x] ~~Buffer From String~~ (**DONE**)  
 - [ ] Hexadecimal Encoding  
 - [ ] Modifying Buffers  
 - [ ] Line Splitter  
