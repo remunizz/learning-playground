@@ -4,7 +4,7 @@
 
 #### Goals
 - [x] ~~Buffer From String~~ (**DONE**)  
-- [ ] Hexadecimal Encoding  
+- [x] ~~Hexadecimal Encoding~~ (**DONE**)  
 - [ ] Modifying Buffers  
 - [ ] Line Splitter  
 - [ ] Buffer Concat  
