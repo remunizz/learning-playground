@@ -9,7 +9,7 @@ var buffer;
 
 // Run a loop of all arguments
 argvs.forEach((argv) => {
-	// Creare a new buffer with an argument hex value
+	// Create a new buffer with an hex value argumment
 	buffer = new Buffer(Number(argv).toString(16));
 	// Convert the buffer to string
 	hexLabel += buffer.toString();
